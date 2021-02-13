@@ -1,0 +1,48 @@
+Crates:
+
+  Ability:
+
+      name: "&a&lAbility Crate"
+
+      key_name: "&aAbility Key"
+
+      block_id: "4:0"
+
+        
+
+  Silver:
+
+      name: "&d&lMythic Crate"
+
+      key_name: "&dMythic_Key"
+
+      block_id: "5:0"
+
+  Special:
+
+      name: "&b&lCosmic Crate"
+
+      key_name: "&bCosmic_Key"
+
+      block_id: "155:0"
+
+      
+
+  2021:
+
+    name: "&6 2021 Crate"
+
+    key_name: "57:0"
+
+    block_id: "57:0"
+
+    
+
+  Starter:
+
+    name: "&7Starter Crate"
+
+    key_name: "&7Starter Key"
+
+    block_id: "3:0"
+
